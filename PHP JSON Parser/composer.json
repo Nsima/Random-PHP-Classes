@@ -1,0 +1,25 @@
+{
+    "name": "basemax/jpophp",
+    "type": "library",
+    "description": "JPOPHP (JSON Parser Object PHP) is a library for parsing the data in JSON format.",
+    "keywords": ["json", "parser", "object", "jpophp", "lexer"],
+    "homepage": "https://github.com/BaseMax/JPOPHP",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Max Base",
+            "email": "MaxBaseCode@Gmail.Com",
+            "homepage": "https://BaseMax.Github.io",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BaseMax/JPOPHP"
+        }
+    ],
+    "require": {
+      
+    }
+}
