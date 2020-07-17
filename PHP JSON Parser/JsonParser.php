@@ -1,14 +1,5 @@
 <?php
-/**
-*
-* @Name : JsonParser
-* @Version : 2.2.1
-* @Programmer : Max
-* @Date : 2018-06-26, 2018-06-27, 2019-03-23, 2019-03-24, 2019-03-26, 2019-03-27, 2019-04-04
-* @Released under : https://github.com/BaseMax/JsonParser/blob/master/LICENSE
-* @Repository : https://github.com/BaseMax/JsonParser
-*
-**/
+
 abstract class JsonType {
 	// []
 	const JsonArray=0;
